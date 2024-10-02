@@ -5,7 +5,7 @@ Esse é um jogo que fiz na Happy Code, uma escola de programação, usando a eng
 This is a game made on Happy Code, a school of programing, on the costruct 3 engine. I also posted in itch.io with a video about it on the Open Maker channel. 
 
 ## Links:
-itch.io(https://kuadrilateru.itch.io/conquiste-marte) / Video (https://youtu.be/YJ_00F7JYlc?si=s2K7pKZjaV-7IqDi)
+itch.io ( https://kuadrilateru.itch.io/conquiste-marte ) / Video ( https://youtu.be/YJ_00F7JYlc?si=s2K7pKZjaV-7IqDi )
 
 ## Objetivo / Goal
 
